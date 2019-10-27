@@ -1,0 +1,6 @@
+This is NerdFonts' Noto Sans (https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Noto/Sans),
+stripped of all the actual Noto glyphs.
+
+We're using this instead of NerdFonts' raw glyphs fonts, because this one is tweaked for Noto Sans metrics, which is a plus for us.
+
+Extra glyphs via https://github.com/ryanoasis/nerd-fonts/, see the WiKi for individual licenses.
